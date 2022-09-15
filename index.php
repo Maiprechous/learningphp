@@ -2,6 +2,8 @@
 
 echo "<strong>olá mundo</strong>" ;
 
+echo "olá hcode";
+
 ?>
 
 
