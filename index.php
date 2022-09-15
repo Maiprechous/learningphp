@@ -1,6 +1,6 @@
 <?PHP
 
-echo "<strong>Hello World</strong>" ;
+echo "<strong>olá mundo</strong>" ;
 
 ?>
 
